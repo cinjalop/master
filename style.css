@@ -1,0 +1,82 @@
+#main-nav{
+	border-bottom:15px solid  #b30059;
+	background-color:#000000;
+	word-spacing:100px;
+	padding-top:100px;
+	padding-right:10px;
+	padding-bottom:120px;
+	font-size: 20px;
+	padding-left: 270px;
+	float:bottom;
+}
+#main-menu{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	float:none;
+}
+#main-menu > a {
+	text-decoration: none;
+	color:#f2f2f2;
+	font-weight:bold;
+	display:inline;
+}
+.active{
+	background-color:#1a8cff;
+}
+#main-menu > a:hover{
+	color: #b30059;
+	display: inline-block;
+	border-bottom: 2px solid  #7FFFD4;
+}
+#main-header{
+	text-align:center;
+	font-size: 60px;
+	color: #008B8B;
+	padding-top: 150px;
+	padding-left:10px;
+	font-family:"Times New Roman", Times, serif;
+}
+img{
+	max-width: 100%;
+	height:auto;
+	margin-right: 25px;
+}
+#main{
+	border-bottom:10px solid  #b30059;
+	background-color: #F0F8FF;
+}
+header{
+	background-image: url("images/.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#research{
+	background-color:#ff9999;
+	padding:0 50px;
+}
+#contacts{
+	text-align: left;
+	padding:50px;
+	border:1px solid black;
+	margin-bottom: 10px;
+}
+.contact{
+	padding-left: 230px;
+	color: #008080;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+#contacts h3{
+	border-left: 5px solid black;
+	background: #cce5ff;
+}
+#contacts1{
+	border:1px solid black;
+	padding-left: 30px;
+	padding-bottom: 32px;
+}
+#about{
+	text-align: left;
+	padding-left: 20px;
+}
